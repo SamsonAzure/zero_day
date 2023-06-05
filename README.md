@@ -1,4 +1,4 @@
-#Vagrant, and how to create a virtual machine in your computer to code locally
+#Vagrant, and how to create a virtual machine in your computer to code locally#
 
 This project involves creating a VM so we can code locally without requiring a sandbox.
 
